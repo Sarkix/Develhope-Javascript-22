@@ -1,2 +1,3 @@
-# Develhope-Javascript-22
-Ejercicio 2 de Javascritp del curso Develhope
+# Destructuring
+
+Use the destructuring to assign the values just with one code line.
